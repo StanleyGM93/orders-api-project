@@ -8,4 +8,4 @@ npm-debug.log*
 dist/log*
 test/
 src/
-.zip
+nodejs-server-server-generated.zip
